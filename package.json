@@ -1,0 +1,14 @@
+{
+  "name": "test-server",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shreya",
+  "license": "ISC",
+  "dependencies": {
+    "express-integrator-extension": "^0.2.5"
+  }
+}
